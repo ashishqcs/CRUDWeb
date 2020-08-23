@@ -1,4 +1,4 @@
-package com.midnight.CRUDWeb.Endpoints;
+package com.midnight.CRUDWeb.endpoints;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
